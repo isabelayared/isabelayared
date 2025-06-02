@@ -1,5 +1,6 @@
-## Oii sou a Isabela Yared, jovem aprendiz e estudante de programação
+
 <div align="center">
+  <h2>Oii sou Isabela Yared, jovem aprendiz e estudante de programação</h2>
   <a href="https://github.com/isabelayared">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabelayared&layout=compact&langs_count=16&theme=dracula"/>
   </a>
@@ -14,4 +15,3 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </div>
 </div>
-[🐍 Snake animation](https://github.com/isabelayared/isabelayared/blob/output/github-contribution-grid-snake.svg)

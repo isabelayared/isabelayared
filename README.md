@@ -4,6 +4,7 @@
 
   <p>
     Estudante de Ciência da Computação.
+    
     Atualmente atuando como estagiária para dados, mas sigo desenvolvendo projetos práticos
     e buscando evoluir constantemente nas tecnologias modernas do mercado.
   </p>

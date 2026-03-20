@@ -3,8 +3,8 @@
   <h3>Estagiária | Dados e Desenvolvedora em formação</h3>
 
   <p>
-    Estudante de programação com foco em desenvolvimento web.
-    Atualmente atuando como jovem aprendiz, desenvolvendo projetos práticos
+    Estudante de Ciência da Computação.
+    Atualmente atuando como estagiária para dados, mas sigo desenvolvendo projetos práticos
     e buscando evoluir constantemente nas tecnologias modernas do mercado.
   </p>
 

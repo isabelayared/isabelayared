@@ -45,27 +45,3 @@
 
   <br><br>
 
-  <h2>O que estou desenvolvendo</h2>
-  <p>
-    • Projetos em React e TypeScript<br>
-    • Aplicações focadas em organização, controle e automação<br>
-    • Projetos voltados para resolver problemas reais do dia a dia
-  </p>
-
-  <br>
-
-  <h2>Objetivo</h2>
-  <p>
-    Consolidar minha base como desenvolvedora front-end,
-    evoluir para aplicações completas e conquistar minha primeira
-    oportunidade efetiva na área de tecnologia.
-  </p>
-
-  <br>
-
-  <p>
-    Fico aberta a feedbacks, sugestões e conexões.<br>
-    Esse perfil representa minha evolução constante como desenvolvedora.
-  </p>
-</div>
-

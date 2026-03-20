@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Isabela Yared</h1>
-  <h3>Jovem Aprendiz | Desenvolvedora em formação</h3>
+  <h3>Estagiária | Dados e Desenvolvedora em formação</h3>
 
   <p>
     Estudante de programação com foco em desenvolvimento web.
